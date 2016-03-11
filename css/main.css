@@ -1,0 +1,32 @@
+html {
+  box-sizing: border-box;
+  font-family: "Dosis", sans-serif;
+}
+
+header {
+  background-color: #efeee9;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #9a816d;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  display: inline-block;
+  color: #2f2d13;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+  text-decoration: none;
+}
